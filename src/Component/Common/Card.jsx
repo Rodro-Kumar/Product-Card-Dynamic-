@@ -5,7 +5,7 @@ import { FaHeart } from "react-icons/fa";
 const Card = ({ colorVariant, badge, img }) => {
   return (
     <>
-      <div className="inline-block cursor-pointer h-[362px]">
+      <div className="inline-block cursor-pointer h-[371px]">
         <div className="group relative overflow-hidden">
           <div className="absolute top-5 left-5 text-black">{badge}</div>
 
